@@ -4,7 +4,7 @@
 
 
 安装：
-使用pip ：pip install nonebot_plugin_Imagelabels
+使用pip ： pip install nonebot_plugin_Imagelabels
 
 
 
