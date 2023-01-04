@@ -33,4 +33,8 @@ setup(
         'Topic :: Software Development :: Libraries'
     ],
     python_requires='>=3.8'
+    install_requires=[
+    "nonebot2>=2.0.0rc1,<3.0.0",
+    "nonebot-adapter-onebot",
+]
 )
