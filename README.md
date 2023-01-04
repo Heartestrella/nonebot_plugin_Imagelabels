@@ -2,10 +2,19 @@
 
 基于yolov5实现的图像标注插件
 
+## 安装方法
+
 
 安装：
-使用pip ： pip install nonebot_plugin_Imagelabels
+使用pip ：
+```
+pip install nonebot_plugin_Imagelabels
+```
 
+在项目内导入：
+```
+nonebot.load_plugin('nonebot_plugin_Imagelabels')
+```
 
 
 在插件被成功导入到nonebot后将自动检查yolov5-master是否位于Bot根目录，如果没有，将自动下载yolov5-master文件夹于根目录并安装相关依赖
@@ -17,7 +26,8 @@
 
 
 
-使用:
+
+## 效果及使用
 
 图片标注+图片
 如：
