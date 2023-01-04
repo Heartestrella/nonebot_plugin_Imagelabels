@@ -17,11 +17,6 @@
 
 
 
-
-
-
-
-
 使用:
 
 图片标注+图片
@@ -43,3 +38,14 @@
 首次使用需要下载yolov5s.pt / 其他   如果没有，yolov5将从github下下载，国内下载速度极慢，且可能被墙
 
 可以自己用迅雷等其他工具下载pt文件，放置于yolov5-master目录下
+
+
+
+## 下一阶段目标
+获取视频文件并标注
+
+
+## 特别感谢
+- [Mrs4s / go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+- [nonebot / nonebot2](https://github.com/nonebot/nonebot2)
+- [yolov5 ](https://github.com/ultralytics/yolov5)
