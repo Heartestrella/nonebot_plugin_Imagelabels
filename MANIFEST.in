@@ -1,0 +1,4 @@
+include test.py
+
+# Include the license file
+include LICENSE.txt
