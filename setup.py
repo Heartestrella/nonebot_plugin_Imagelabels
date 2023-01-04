@@ -48,6 +48,7 @@ setup(
     'tqdm>=4.41.0',
     'tensorboard>=2.4.1',
     'pandas>=1.1.4',
-    'seaborn>=0.11.0'
+    'seaborn>=0.11.0',
+    'httpx'
 ]
 )
