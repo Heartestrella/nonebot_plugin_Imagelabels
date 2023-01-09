@@ -59,3 +59,9 @@ nonebot.load_plugin('nonebot_plugin_Imagelabels')
 - [Mrs4s / go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 - [nonebot / nonebot2](https://github.com/nonebot/nonebot2)
 - [yolov5 ](https://github.com/ultralytics/yolov5)
+
+
+## 更新日志
+v 0.1.6 :修复了一些可能遇到的问题，并添加了恢复默认功能，在代码出现非网络导致的下载问题时可尝试使用指令"恢复默认"来重置默认值从而解决bug
+
+v 0.1.5 及以下 :可均视为0.1.5版本，没有更新任何东西，只是增加了依赖
