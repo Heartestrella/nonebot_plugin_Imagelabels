@@ -65,3 +65,11 @@ nonebot.load_plugin('nonebot_plugin_Imagelabels')
 v 0.1.6 :修复了一些可能遇到的问题，并添加了恢复默认功能，在代码出现非网络导致的下载问题时可尝试使用指令"恢复默认"来重置默认值从而解决bug
 
 v 0.1.5 及以下 :可均视为0.1.5版本，没有更新任何东西，只是增加了依赖
+
+
+## 关于错误代码
+error code 001 ：可能由于没有管理员/root权限导致无法重置配件文件导致的
+error code 002 ：可能由于网络环境较差无法下载yolov5所需文件导致
+
+
+详细错误问题请参见Bot目录下的Imagelabels-err.txt
