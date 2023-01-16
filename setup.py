@@ -8,9 +8,9 @@ long_description=(here / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='nonebot_plugin_Imagelabels',
-    version='0.1.3',
+    version='1.0.0',
     description=(
-        '基于yolov5实现的图像标注'
+        '基于yolov5实现的图像标注的Nonebot插件'
     ),
     author='Shen_heart',
     author_email='692644718@qq.com',
